@@ -1,9 +1,10 @@
 {
   "id": 148597521,
   "created_at": "2026-07-23T21:51:42.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["cmrdesign"]
 }
